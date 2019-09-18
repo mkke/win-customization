@@ -1,2 +1,6 @@
 # win-customization
-Various Windows customization bits
+Windows customizations I use.
+
+## Fonts
+
+* For Powerline: https://github.com/Znuff/consolas-powerline
